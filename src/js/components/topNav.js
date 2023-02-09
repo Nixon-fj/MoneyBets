@@ -5,7 +5,7 @@ const topNav = () => {
 		menu = d.querySelector('.top-nav__menu');
 		headerBtn.addEventListener('click', e => {
 			e.preventDefault();
-			headerBtn.classList.toggle('is-active'),
+			headerBtn.classList.toggle('is-active');
 			menu.classList.toggle('is-active');
 		}); 
 };
