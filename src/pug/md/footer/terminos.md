@@ -59,3 +59,15 @@
 </tr><tr><td> 29 </td>
 <td>Requitos de 'rollover' en los bonos pueden cambiar a discreción de Nuestro Sportsbook según su localización geográfica. </td>
 </tr></tbody></table>
+
+## PAGO ANTICIPADO DE APUESTAS
+
+Si su perfil tiene la opción de pago anticipado de apuestas combinadas, las siguientes reglas aplican:
+
+- La opción estará; disponible ÚNICAMENTE si no hay juegos pendientes que se encuentren en acción.
+
+- Si el usuario procede con el pago anticipado, debe considerar que el proceso es irreversible y final.
+
+- La gerencia se reserva el derecho de crear excepciones de juegos donde no estará disponible el pago anticipado para dichas apuestas.
+
+- La gerencia se reserva el derecho de limitar el acceso a esta opción de pago anticipado.
